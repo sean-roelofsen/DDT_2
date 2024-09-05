@@ -1,0 +1,155 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.406783,43.164688 ]
+    },
+    "properties": {
+    "ID":7,
+    "Farm_Name":"Cherry Lane Frozen Fruit",
+    "Site_Plot":"3-ii",
+    "NEAR_DIST":8.358693,
+    "Group":"Pre-1990",
+    "fDDX":4110
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.42425,43.172134 ]
+    },
+    "properties": {
+    "ID":15,
+    "Farm_Name":"Hipple Farms",
+    "Site_Plot":"6-i",
+    "NEAR_DIST":15.623502,
+    "Group":"Pre-1990",
+    "fDDX":2466.2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.424123,43.172147 ]
+    },
+    "properties": {
+    "ID":16,
+    "Farm_Name":"Hipple Farms",
+    "Site_Plot":"6-ii",
+    "NEAR_DIST":25.968276,
+    "Group":"Pre-1990",
+    "fDDX":2056.7
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.424005,43.172143 ]
+    },
+    "properties": {
+    "ID":17,
+    "Farm_Name":"Hipple Farms",
+    "Site_Plot":"6-iii",
+    "NEAR_DIST":35.504911,
+    "Group":"Pre-1990",
+    "fDDX":2017.1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.425258,43.174975 ]
+    },
+    "properties": {
+    "ID":23,
+    "Farm_Name":"Warner Farms",
+    "Site_Plot":"8-iii",
+    "NEAR_DIST":44.982084,
+    "Group":"Pre-1990",
+    "fDDX":2866.3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.428061,43.171819 ]
+    },
+    "properties": {
+    "ID":21,
+    "Farm_Name":"Warner Farms",
+    "Site_Plot":"8-i",
+    "NEAR_DIST":62.442986,
+    "Group":"Pre-1990",
+    "fDDX":4259.4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.314642,43.171174 ]
+    },
+    "properties": {
+    "ID":13,
+    "Farm_Name":"Overholt Orchards",
+    "Site_Plot":"5-ii",
+    "NEAR_DIST":167.338289,
+    "Group":"Pre-1990",
+    "fDDX":2000.2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.709477,43.144574 ]
+    },
+    "properties": {
+    "ID":34,
+    "Farm_Name":"Lincoln Line Orchards",
+    "Site_Plot":"12-ii",
+    "NEAR_DIST":239.623833,
+    "Group":"Pre-1990",
+    "fDDX":3769.5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.709476,43.144628 ]
+    },
+    "properties": {
+    "ID":35,
+    "Farm_Name":"Lincoln Line Orchards",
+    "Site_Plot":"12-iii",
+    "NEAR_DIST":241.520073,
+    "Group":"Pre-1990",
+    "fDDX":4049.8
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.709367,43.144555 ]
+    },
+    "properties": {
+    "ID":33,
+    "Farm_Name":"Lincoln Line Orchards",
+    "Site_Plot":"12-i",
+    "NEAR_DIST":247.60999,
+    "Group":"Pre-1990",
+    "fDDX":3267.8
+    }
+  }
+]
+}
